@@ -73,5 +73,4 @@ fn main() {
     let index=[12,13,14,15];
     let third=c[index[1]];
     println!("third {}",third);
-
 }
